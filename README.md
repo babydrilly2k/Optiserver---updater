@@ -2,7 +2,7 @@
 
 Este repositorio no oficial tiene como único objetivo mantener **Nukkit** actualizado. No buscamos apropiarnos del trabajo original de **OptiProjects**, sino facilitar el acceso a una versión actualizada y funcional para la comunidad.  
 
-**Todos los créditos pertenecen a OptiProjects**, los creadores originales de esta herramienta. Nuestro trabajo simplemente consiste en actualizar Nukkit y garantizar que la herramienta siga siendo útil para quienes confían en ella.
+**Todos los créditos pertenecen a OptiProjects & Nukkit-MOT**, los creadores originales de esta herramienta. Nuestro trabajo simplemente consiste en actualizar Nukkit y garantizar que la herramienta siga siendo útil para quienes confían en ella.
 
 ## ¿Qué se hizo en este repositorio?
 - **Actualización de Nukkit:** Se ha actualizado la herramienta para trabajar con las versiones más recientes de **Nukkit**.
